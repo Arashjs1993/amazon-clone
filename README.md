@@ -4,5 +4,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Src folder
 
-Contains all the React components for this project
+Contains all the React components and related CSS files for this project
 
