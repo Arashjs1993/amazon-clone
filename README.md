@@ -1,3 +1,7 @@
+# Directories
+"src" contains all the CSS and JS files related to the react components and their associated CSS files.
+"functions" folder contains the "index.js" for the firebase cloud function that handles the online shopping's backend using express server.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
