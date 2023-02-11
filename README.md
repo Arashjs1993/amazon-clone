@@ -1,5 +1,5 @@
 # Functionality
-A full functional clone of Amazon written in React with authentication, payment processing, shopping basket management functionalities. For authentication and the databese the Google's firebase service has been used.
+A full functional clone of Amazon written in React with authentication, payment processing, shopping basket management functionalities. For authentication and the databese the Google's firebase service has been used. The app uses the "Stripe" service as its API server to process the payment requests made by the user once he/she places an order.
 
 # Directories
 "src" contains all the CSS and JS files related to the react components and their associated CSS files.
