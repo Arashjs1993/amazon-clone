@@ -1,3 +1,6 @@
+# Functionality
+A full functional clone of Amazon written in React with authentication, payment processing, shopping basket management functionalities. For authentication and the databese the Google's firebase service has been used.
+
 # Directories
 "src" contains all the CSS and JS files related to the react components and their associated CSS files.
 "functions" folder contains the "index.js" for the firebase cloud function that handles the online shopping's backend using express server.
